@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/sPMUvNW.gif" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Machine Learning</h3>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Machine learning codes for future reference.
     <br> 
 </p>
 
