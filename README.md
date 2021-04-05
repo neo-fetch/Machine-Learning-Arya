@@ -32,8 +32,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
-
+These are ML codes that I sometimes write either because I am learning something, or I will use it for future references. These are simple Machine Learning codes which can be used as templates in order to build a bigger model. You are free to check them out. Enjoy!
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 Please refer to [Installation](#Installation) and [Usage](#usage) for the set up.
